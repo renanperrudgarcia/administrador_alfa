@@ -1,0 +1,3 @@
+# administrador_alfa
+# Ignora os modulos que são abaixados com npm install 
+node_modules/
